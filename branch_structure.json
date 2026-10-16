@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-706-ct-03-add-pagination-to-workspace-booking",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-706-ct-03-add-pagination-to-workspace-booking": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-706-ct-03-add-pagination-to-workspace-booking",
+    "origin"
+  ]
+}
